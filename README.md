@@ -24,6 +24,3 @@ node_modules/         # packages installed by npm
 ```
 
 
-
-# Command Used (Sequence Wise)
-

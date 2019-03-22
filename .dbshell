@@ -1,0 +1,1 @@
+db.tasks.insert({ text : "HELLO TASKS", createdAt: new Date() });
